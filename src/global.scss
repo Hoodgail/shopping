@@ -1,0 +1,9 @@
+:root {
+	--padding: 2em;
+}
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	overflow: hidden;
+}
